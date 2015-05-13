@@ -1,0 +1,25 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+tr > th { text-align: center; }
+
+tr > td {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+/* Backgrounds */
+.bg-black { background-color: #000000; }
+
+/* Colors */
+.white { color: #FFFFFF;}
+
+/* Positions*/
+.inline-block { display: inline-block; }
+.center { text-align: center; }
+
+/* Margins and paddings */
+.m-left-10 { margin-left: 10px; }
+
